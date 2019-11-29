@@ -10,10 +10,10 @@ iOS Development Target: iOS 13.2
 
 
 # Features
-NavigationView()
-ZStack(), HStack()
-RadialGradient()
-NavigationLink()
+NavigationView()   
+ZStack(), HStack()    
+RadialGradient()    
+NavigationLink()    
 
 # Style
 ![text](https://github.com/nataliawcislo/GalleryUI-/blob/master/List.gif)
